@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/troutt/Space%20Game%20-%20web%20-%20Dependencies/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/troutt/Space%20Game%20-%20web%20-%20Dependencies/_build/latest?definitionId=9&branchName=master)
+[![Build Status](https://dev.azure.com/troutt/Space%20Game%20-%20web%20-%20Dependencies/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/troutt/Space%20Game%20-%20web%20-%20Dependencies/_build/latest?definitionId=9&branchName=main)
 
 # Contributing
 
